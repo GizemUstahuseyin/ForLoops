@@ -1,1 +1,2 @@
-# ForLoops
+# For Loops - For Döngüsü
+Sürekli tekrar etmesi gereken işlerde bir döngü kullanılarak ve döngü sonuna gelene kadar tekrarlanarak sonuç verir. Bu döngülerden biri 'FOR' döngüsüdür. For üç bloktan oluşur. İlk blok sayaç yani başlangıç değeridir, neyden başlanacağı belli olur. İkinci blok şart bloğudur, kaça kadar dönecek,hangi şartları sağlamalı gibi durumlar belirlenir. Üçüncü blokta bir dönüş bittiğinde bir sonraki değerde ne yapacağını belirler, örneğin sayıyı bir arttırma gibi durumlarda belirleyicidir.
